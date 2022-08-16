@@ -1,7 +1,7 @@
 {
-  "name": "wedding-gift-webpack",
+  "name": "webpack-template",
   "version": "1.0.0",
-  "main": "wedding-gift-webpack/webpack.config.js",
+  "main": "webpack-template/webpack.config.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack --mode=production",
