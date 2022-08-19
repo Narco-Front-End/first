@@ -1,20 +1,39 @@
 .main {
   padding-bottom: 80px;
+
 }
 
 .main__container {
   @include flex-center;
-}
-
-.header__logo {
-  @include media-tablet {
-    width:120px;
+  @include media-mobile {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 40px;
   }
 }
+
+.header__logo--contacts {
+  @include media-tablet {
+    width: 80%;
+  }
+}
+
+
 .team__logo {
   @include media-tablet {
     font-size: 20px;
   }
+}
+
+.team__p-icon {
+  @include media-tablet {
+    width: 30%;
+  }
+}
+
+.contacts__heading {
+  width: 100%;
 }
 
 .main__address {
@@ -36,11 +55,21 @@
   padding: 20px;
   border: none;
   border-radius: 12px;
+  @include media-tablet {
+    width: 50%;
+  }
+  @include media-mobile {
+    width: 100%;
+  }
+
 }
 
 .contacts__label {
   width: 490px;
   border: none;
+  @include media-tablet {
+    width: 95%;
+  }
 }
 
 .contacts__input {
@@ -48,6 +77,9 @@
   padding: 10px;
   border-radius: 12px;
   border: none;
+  @include media-tablet {
+    width: 95%;
+  }
 }
 
 .contacts__text {
@@ -57,4 +89,20 @@
   border: none;
   border-radius: 12px;
   padding: 10px;
+  @include media-tablet {
+    width: 95%;
+  }
+}
+
+.contacts__button {
+  @include media-mobile {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+}
+
+.contacts__map {
+  @include media-mobile {
+    width: 100%;
+  }
 }

@@ -198,6 +198,12 @@ body {
   }
 }
 
+.header__lang {
+@media (max-width: 680px){
+    display: flex;
+    flex-direction: column;
+  }
+}
 
 
 
