@@ -1,0 +1,44 @@
+.publications {
+  background-color: #FFFFFF;
+}
+
+.publications-main {
+  background: #F5F5FA;
+  border-radius: 12px 12px 0px 0px;
+  padding-top: 120px;
+  padding-bottom: 60px;
+}
+
+.publications-main__list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 40px;
+}
+
+.publications-main__item {
+  width: 400px;
+  background-color: #FFFFFF;
+  border-radius: 8px;
+  @include media-tablet {
+    width: 45%;
+  }
+  @include media-mobile {
+    width: 95%;
+  }
+}
+
+.publications__subheading  {
+  margin-bottom: 10px;
+  flex-grow: 1;
+}
+
+.publications__text {
+  display: flex;
+  flex-grow: 4;
+}
+
+.publications__button-wrapper {
+  @include flex-center;
+  justify-content: center;
+  margin-top: 40px;
+}
