@@ -1,0 +1,58 @@
+.header__team {
+  width: 100%;
+
+}
+
+.team-hero__heading-wrapper {
+  display: flex;
+  align-items: end;
+  width: 870px;
+  @include media-tablet {
+    width: 90%;
+  }
+}
+
+
+.header__menu {
+  @include media-tablet {
+    width: 65%;
+  }
+}
+
+.team-hero__heading {
+  display: flex;
+  align-items: end;
+  justify-content: end;
+  text-align: justify;
+}
+
+.team-hero__list {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 80px;
+  gap: 30px;
+}
+
+.team-hero__item {
+  width: 400px;
+  @include media-tablet {
+    width: 200px;
+  }
+}
+
+.team-hero__image {
+  border-radius: 5px;
+}
+
+.team-hero__text-wrapper {
+  @include flex-center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.team-hero__item {
+  width: 415px;
+  @include media-mobile {
+    width: 90%;
+  }
+}

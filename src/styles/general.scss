@@ -1,0 +1,211 @@
+@font-face {
+  font-family: OpenSans;
+  font-display: swap;
+  font-weight: 300;
+  src: url("fonts/OpenSans-Light.woff2") format('woff2');
+}
+
+@font-face {
+  font-family: OpenSans;
+  font-display: swap;
+  font-weight: 400;
+  src: url("fonts/OpenSans-Regular.woff2") format('woff2');
+}
+
+@font-face {
+  font-family: OpenSans;
+  font-display: swap;
+  font-weight: 500;
+  src: url("fonts/OpenSans-Medium.woff2") format('woff2');
+}
+
+@font-face {
+  font-family: OpenSans;
+  font-display: swap;
+  font-weight: 700;
+  src: url("fonts/OpenSans-Bold.woff2") format('woff2');
+}
+
+.container {
+  width: 1320px;
+  margin-left: auto;
+  margin-right: auto;
+  @media (max-width: 1200px) {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+body {
+  font-family: OpenSans, sans-serif;
+}
+
+.text--white {
+  color: #ffffff;
+}
+
+
+.heading {
+  font-size: 42px;
+  font-weight: 700;
+  line-height: 1.2;
+  @media (max-width: 1200px) {
+    font-size: 25px;
+  }
+}
+
+.heading--white {
+  color: #ffffff;
+}
+
+.heading--purple {
+  background-image: linear-gradient(90.13deg, #F0145A 0.84%, #EF8080 99.96%);
+  background-clip: text;
+  color: transparent;
+}
+
+.gradient-wrapper {
+  //@include background-right-corner-red;
+  background: linear-gradient(228.57deg, #323264 11.93%, #323264 57.17%, #643E72 87.46%);
+  border-radius: 0px 0px 12px 12px;
+}
+
+
+
+.link--white {
+  color: #ffffff;
+}
+
+.subheading--blue {
+  color: #24A3FF;
+}
+
+.top-link--blue {
+  color: #24A3FF;
+}
+
+.link--blue {
+  color: rgba(36, 163, 255, 1);
+}
+
+.link--dark-blue {
+  color: #323264;
+}
+
+.top-link--grey {
+  color: #FFFFFF;
+  opacity: 0.5;
+}
+
+.languages__link {
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+.top-link {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 1.2;
+  text-transform: uppercase;
+}
+
+.paragraph {
+  font-size: 21px;
+  font-weight: 400;
+  line-height: 1.4;
+  @media (max-width: 1200px) {
+    font-size: 16px;
+  }
+}
+
+.paragraph--white {
+  color: #FFFFFF;
+}
+
+.text--grey {
+  color: #B3B3BA;
+}
+
+.text--purple {
+  background-image: linear-gradient(90.13deg, #F0145A 0.84%, #EF8080 99.96%);
+  background-clip: text;
+  color: transparent;
+}
+
+.text--blue {
+  color: rgba(36, 163, 255, 1);
+
+}
+
+.heading--grey {
+  color: #B3B3BA;
+}
+
+.heading:active {
+  background-image: linear-gradient(90.13deg, #F0145A 0.84%, #EF8080 99.96%);
+  background-clip: text;
+  color: transparent;
+}
+
+.subheading--blue {
+  color: #24A3FF;
+}
+
+.paragraph--blue {
+  color: #24A3FF;
+}
+
+
+.title {
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 1.2;
+  color: #323264;
+  text-transform: uppercase;
+}
+
+.title--center {
+  text-align: center;
+}
+
+.heading--center {
+  text-align: center;
+}
+
+.logo__text {
+  text-transform: uppercase;
+  font-size: 38px;
+  font-weight: 400;
+  color: rgba(70, 70, 110, 1);
+  line-height: 1.2;
+}
+
+.logo-text-color {
+  color: #323264;
+}
+
+.gray-blue-text-color {
+  color: rgba(50, 50, 100, 1);
+}
+
+.slash-icon {
+  width: 21px;
+  height: 47px;
+  @media (max-width: 1200px) {
+    height: 25px;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+

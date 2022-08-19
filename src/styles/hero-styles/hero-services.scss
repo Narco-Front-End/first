@@ -1,0 +1,42 @@
+.services {
+  padding-top: 45px;
+}
+
+.services__top-link {
+  margin-bottom: 20px;
+}
+
+.services__heading {
+  margin-bottom: 70px;
+  @include media-tablet {
+    margin-bottom: 35px;
+  }
+}
+
+.services__list {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.services__item {
+  width: 420px;
+  margin-bottom: 90px;
+  @include media-tablet {
+    width: 40%;
+  }
+}
+
+.services__icon {
+  margin-bottom: 20px;
+}
+
+.services__subheading {
+  margin-bottom: 20px;
+}
+
+.services__text {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 1.5;
+}
