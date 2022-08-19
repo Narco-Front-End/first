@@ -2,9 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2eebf15f-e73e-4e4f-aa54-26f52c697d7f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/images/publications/imageequity-associate.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/publications/imagegoogle-fine.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/publications/imagelanguagelaw.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/publications/imagemilleneial.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/publications/imagestudycompansation.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/publications.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/contacts.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/contacts.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/contacts-page/contacts-main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/contacts-page/contacts-main.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/general.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/general.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/team.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/team.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,7 +27,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2DZJh2ZgCd3NmbQFhwImE8M7HWX" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -37,6 +48,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ustin\Documents\GitHub\first\src\images\publications" />
       <recent name="C:\Users\ustin\Documents\GitHub\first" />
     </key>
   </component>
@@ -48,7 +60,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660900788753</updated>
-      <workItem from="1660900791922" duration="2584000" />
+      <workItem from="1660900791922" duration="5956000" />
     </task>
     <servers />
   </component>
