@@ -1,7 +1,6 @@
-const { join, resolve } = require('path');
+const {join, resolve} = require('path');
 const MiniCssExtractPlugin = require('mini-css-extract-plugin');
 const HtmlWebpackPlugin = require('html-webpack-plugin')
-
 
 
 module.exports = {
@@ -39,13 +38,13 @@ module.exports = {
             filename: '[name]-[fullhash].css',
         }),
         new HtmlWebpackPlugin({
-            template: './src/index.html'
+            template: './src/uikit.html'
         })
     ],
     devServer: {
         port: 3001,
         static: {
-directory: join (__dirname, 'src')
+            directory: join(__dirname, 'src')
         }
     }
 };
