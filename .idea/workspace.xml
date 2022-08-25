@@ -5,18 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed2e0c30-658e-493f-975f-472abf8e2fb3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/images/footer/footer-fb-icon.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/45-61b6cda5714d8ae35970.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/45-61b6cda5714d8ae35970.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/main-61b6cda5714d8ae35970.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/button.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/components/button.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/index.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/mixins.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/our-customers.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/our-customers.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/uikit.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/uikit.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/components/button.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/components/button.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,7 +102,7 @@
       <workItem from="1659186194453" duration="191000" />
       <workItem from="1659186453445" duration="327000" />
       <workItem from="1661322415654" duration="925000" />
-      <workItem from="1661413755560" duration="3861000" />
+      <workItem from="1661413755560" duration="4785000" />
     </task>
     <servers />
   </component>
