@@ -5,20 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed2e0c30-658e-493f-975f-472abf8e2fb3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/styles/components/fonts.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/mixins/flex.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/mixins/media.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/mixins/mixins.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/mixins/typography.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/components/button.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/components/button.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/footer.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/general.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/general.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/index.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/mixins.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/our-customers.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/our-customers.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/uikit.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/uikit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,7 +105,7 @@
       <workItem from="1661413755560" duration="5699000" />
       <workItem from="1661459702623" duration="625000" />
       <workItem from="1661515996591" duration="3059000" />
-      <workItem from="1661519810823" duration="1178000" />
+      <workItem from="1661519810823" duration="1921000" />
     </task>
     <servers />
   </component>
