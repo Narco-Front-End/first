@@ -1,0 +1,23 @@
+ .button {
+   border: none;
+   background: var(--color-blue-regular);
+   box-shadow: 0px 0px 20px rgba(36, 163, 255, 0.5);
+   border-radius: 12px;
+   font-size: 1.4rem;
+   font-weight: 600;
+   line-height: 1.2;
+   color: #FFFFFF;
+   padding-top: 16px;
+   padding-right: 60px;
+   padding-bottom: 16px;
+   padding-left: 60px;
+ }
+
+
+ .button:hover {
+  background: var(--color-blue-hover);
+}
+
+ .button:active{
+  background: var(--color-blue-active);
+}
