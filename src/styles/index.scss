@@ -1,5 +1,10 @@
 @import "src/styles/reset.scss";
+@import "src/styles/mixins/mixins";
+@import "src/styles/mixins/flex";
+@import "src/styles/mixins/media";
 @import "src/styles/general.scss";
 @import "src/styles/components/button";
+@import "src/styles/mixins/typography";
+@import "src/styles/components/fonts";
 @import "src/styles/our-customers";
 @import "src/styles/footer";

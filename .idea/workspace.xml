@@ -5,8 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed2e0c30-658e-493f-975f-472abf8e2fb3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/components/fonts.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/mixins/flex.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/mixins/media.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/mixins/mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/mixins/typography.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/styles/components/button.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/components/button.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/footer.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/general.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/general.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/index.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/our-customers.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/our-customers.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/uikit.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/uikit.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +62,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Bohdan/WebstormProjects/first&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ustin/WebstormProjects/untitled3&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;org.elm.workspace.PROJECT_DISCOVERY&quot;: &quot;true&quot;,
     &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;C:\\Users\\Bohdan\\WebstormProjects\\first\\node_modules\\prettier&quot;,
@@ -63,6 +75,7 @@
       <recent name="C:\Users\ustin\WebstormProjects\webpack-template" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ustin\WebstormProjects\hlegals-narco-frontend\src\styles\mixins" />
       <recent name="C:\Users\ustin\WebstormProjects\hlegals-narco-frontend\src\styles\components" />
       <recent name="C:\Users\ustin\WebstormProjects\hlegals-narco-frontend\src\images\footer" />
     </key>
@@ -102,7 +115,10 @@
       <workItem from="1659186194453" duration="191000" />
       <workItem from="1659186453445" duration="327000" />
       <workItem from="1661322415654" duration="925000" />
-      <workItem from="1661413755560" duration="4785000" />
+      <workItem from="1661413755560" duration="5699000" />
+      <workItem from="1661459702623" duration="625000" />
+      <workItem from="1661515996591" duration="3059000" />
+      <workItem from="1661519810823" duration="1178000" />
     </task>
     <servers />
   </component>
